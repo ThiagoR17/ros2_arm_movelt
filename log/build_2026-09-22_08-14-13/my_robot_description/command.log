@@ -1,0 +1,2 @@
+Invoking command in '/home/hiago/ros2_arm/build/my_robot_description': /usr/bin/cmake /home/hiago/ros2_arm/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/hiago/ros2_arm/install/my_robot_description
+Invoked command in '/home/hiago/ros2_arm/build/my_robot_description' returned '1': /usr/bin/cmake /home/hiago/ros2_arm/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/hiago/ros2_arm/install/my_robot_description
